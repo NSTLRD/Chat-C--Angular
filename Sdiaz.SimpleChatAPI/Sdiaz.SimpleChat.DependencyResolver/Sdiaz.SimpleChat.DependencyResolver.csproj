@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="7.1.0" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.1.0" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="C:\Users\starling\source\repos\Sdiaz.SimpleChatAPI\Sdiaz.SimpleChat.Business\Sdiaz.SimpleChat.Business.csproj" />
+		<ProjectReference Include="C:\Users\starling\source\repos\Sdiaz.SimpleChatAPI\Sdiaz.SimpleChat.DataRepositories\Sdiaz.SimpleChat.DataRepositories.csproj" />
+		
+	</ItemGroup>
+		
+</Project>
