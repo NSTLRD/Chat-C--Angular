@@ -31,7 +31,6 @@ This is an online chat application with Angular, ASP.NET Core, SignalR, and SqlS
 3. Install the latest .Net 7
 4. Install the latest [Node.js LTS](https://nodejs.org/en/)
 5. Run `npm install -g @angular/cli` to install the latest version of Angular CLI
-6. Download source code from  `https://github.com/Ehasaniceiu04/simple-chat.git` 
 
 
 ## Run Front-End Application (Angular 9)
