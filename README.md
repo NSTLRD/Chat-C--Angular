@@ -1,4 +1,4 @@
-# Chat-C--Angular
+# Chat-C#-API---Angular
 small functionality of the chat application
 
 # Online Chat Application
